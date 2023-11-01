@@ -4,9 +4,10 @@ Welcome to my 100 Days of Code Challenge! In this repository, I'll be documentin
 ## Table of Contents
 
 - [About the Challenge](#about-the-challenge)
-- [Log Format](#log-format)
 - [Daily Logs](#daily-logs)
+- [Goals](#goals)
 - [Resources](#resources)
+
 
 ## About the Challenge
 
@@ -17,6 +18,21 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 I'll be maintaining a daily log in tabular format to track my progress. Each entry will include the day number, date, what I worked on, any thoughts or reflections, and a link to the code or files.
 
 For a detailed log, please refer to the [daily log table](log.md).
+
+## Goals
+
+During this challenge, my main goals are:
+
+- [ ] Learn NGRX
+- [ ] Learn Unit testing
+- [ ] Learn RXJS
+- [ ] Nextjs 13
+- [ ] Learn Next-International
+- [ ] Learn React 18
+- [ ] Explore PrimeReact
+- [ ] Learn React-Query
+
+These goals will help me focus on specific areas and projects, and track my progress throughout the challenge.
 
 ## Resources
 
