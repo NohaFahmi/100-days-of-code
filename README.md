@@ -27,7 +27,7 @@ During this challenge, my main goals are:
 - [ ] Learn Unit testing
 - [ ] Learn RXJS
 - [ ] Nextjs 13
-- [ ] Learn Next-International
+- [ ] Explore Next-International
 - [ ] Learn React 18
 - [ ] Explore PrimeReact
 - [ ] Learn React-Query
@@ -36,4 +36,12 @@ These goals will help me focus on specific areas and projects, and track my prog
 
 ## Resources
 
-- [Frontend Mentor Challenges]([https://www.100daysofcode.com/](https://www.frontendmentor.io/home))
+- [Frontend Mentor Challenges](https://www.100daysofcode.com/](https://www.frontendmentor.io/home)
+- [RXJS Documentation](https://rxjs.dev/guide/overview)
+- [NGRX Documentation](https://ngrx.io/)
+- [React18 documentation](https://legacy.reactjs.org/blog/2022/03/29/react-v18.html)
+- [Unit testing in angular](https://jscrambler.com/blog/internal-of-unit-testing-in-angular)
+- [React query](https://www.npmjs.com/package/react-query)
+- [Nextjs 13](https://nextjs.org/blog/next-13)
+- [PrimeReact](https://primereact.org/)
+- [Next international](https://www.npmjs.com/package/next-international)
